@@ -1,0 +1,9 @@
+OB1   Paracetamol   100
+OB2   Ibuprofen   30
+OB3   Amoxicillin   20
+OB4   Cetirizine   35
+OB5   Omeprazole   40
+OB6   Metformin   12
+OB7   Salbutamol   16
+OB8   Laperamide   10
+OB9   Amlodipine   23
